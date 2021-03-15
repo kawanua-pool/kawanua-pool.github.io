@@ -1,0 +1,30 @@
+{
+    "info": {
+        "location": "Manado, Indonesia",
+        "social": {
+            "twitter_handle": "Kawanua Pool",
+            "telegram_handle": "[KAWAN]CardanoPool",
+            "facebook_handle": "https://www.facebook.com/kawanua.cardano",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operator. Try to bring the cardano World to Southtyrol",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": ""
+      }
+    }
+}
